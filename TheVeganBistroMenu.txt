@@ -1,0 +1,30 @@
+<<!DOCTYPE html>
+<html>
+<head> 
+ 	<title>Vegan Bistro>
+ 	</head>
+<body>
+<script> 
+	var alpha = "The new way!";
+	var result = alpha.substring(0,5) 
+	document.write(result);
+	var a = new menu
+	var a = [" New French fries", "Kale chips", "Kava chips", "Sweet potatoes fries", same price, happy hour]; 
+	document.write(a[same price]);
+	function sayGlass of organic wine(Temecula) {
+			document.write ("Glass of organic wine" + Temecula)
+			var a = 5;
+			if (a > 8) {
+				alert(a);
+			} else{
+				alert("White, red and Rose wine");
+			}
+			}
+	}
+	var person = {firstName:"", lastName:""};
+document.getElementById("demo").innerHTML = person.firstName;
+</script>
+</body>>
+
+
+</html>
